@@ -15,6 +15,7 @@
 	box-shadow: 0 10px 20px rgba(40,39,66,.06);
 	overflow: hidden;
 	width: 1020px;
+	height: 500px;
 	z-index: 2;
 	padding: 30px 0 0 0;
 	margin: auto;
