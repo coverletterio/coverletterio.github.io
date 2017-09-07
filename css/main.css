@@ -9,6 +9,11 @@
 .ctas-button {
 	color: #444;
 }@import url('https://fonts.googleapis.com/css?family=Karla:400,700');
+
+.ctas-button.demo {
+	color: #FFD747;
+}@import url('https://fonts.googleapis.com/css?family=Karla:400,700');
+
 *,
 *:before,
 *:after {
