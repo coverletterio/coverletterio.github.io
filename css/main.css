@@ -11,7 +11,7 @@
 }@import url('https://fonts.googleapis.com/css?family=Karla:400,700');
 
 .ctas-button.demo {
-	color: #FFD747;
+	color: white;
 }@import url('https://fonts.googleapis.com/css?family=Karla:400,700');
 
 *,
@@ -198,6 +198,10 @@ p.paragraph {
 	border: 1px solid white;
 	text-decoration: none;
 }
+.ctas-button.demo {
+	background: #FFD747;
+	border-color: #FFD747;
+}
 @media (max-width: 440px) {
 	.ctas-input,
 	.ctas-button {
@@ -224,6 +228,10 @@ p.paragraph {
 	letter-spacing: .3px;
 	border: 1px solid white;
 	text-decoration: none;
+}
+.ctas-button.demo {
+	background: #FFD747;
+	border-color: #FFD747;
 }
 .ctas-button-2 {
 	background: transparent;
@@ -281,6 +289,10 @@ p.paragraph {
 	letter-spacing: .3px;
 	border: 1px solid white;
 	text-decoration: none;
+}
+.ctas-button.demo {
+	background: #FFD747;
+	border-color: #FFD747;
 }
 .ctas-button-2 {
 	background: transparent;
